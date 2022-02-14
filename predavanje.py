@@ -32,4 +32,4 @@ if mood == "happy":
 elif mood == "nervous":
     print("Take a deep breath 3 times.")
 else:
-    print("Cheer up, mate!")
+    print("Cheer up, mate")
